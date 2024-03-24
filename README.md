@@ -9,3 +9,5 @@
 ⚡️fun fact: I can solve the rubik's cube
 
 📧contact: jonatastavares@id.uff.br or jonatastavaresandrade@gmail.com
+
+![Jônatas' GitHub stats](https://github-readme-stats.vercel.app/api?username=jonat4s&show_icons=true&theme=radical)
