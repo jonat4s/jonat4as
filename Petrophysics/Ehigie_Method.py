@@ -1,3 +1,6 @@
+import numpy as np
+import numpy.typing as npt
+
 def vclay_ehigie(phit: npt.ArrayLike, phie: npt.ArrayLike):
     """Estimate the clay volume (or shale volume) from the Ehigie model.
     Parameters
