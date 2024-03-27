@@ -19,11 +19,14 @@ def crain(phi: npt.ArrayLike, ff: npt.ArrayLike):
 
     Returns
     -------
+    
     sw : array_like
         Water saturation from Crain equation.
+    
     References
     ------------
-    .. Crain E.R. (2016) Visual Analysis Rule for Water Saturation, Petrophysical Handout."""
+    
+    Crain E.R. (2016) Visual Analysis Rule for Water Saturation, Petrophysical Handout."""
    
     bvi = phi - ff
     sw = bvi / phi
